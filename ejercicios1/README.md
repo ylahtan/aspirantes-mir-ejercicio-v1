@@ -9,3 +9,5 @@ ls listado
 7 git config --global user.name 'Nombre'> y <git config --global user.email 'Correo'>
 8 git init iniciar el repositorio 
 9 <git add .> y <git commit -m 'Versión inicial'> para crear el primer commit
+se agrego al README.md todos los pasos 
+11 <git add .> y <git commit -m 'aspirantes-mir-ejercicio-1'> para crear el segundo commit
